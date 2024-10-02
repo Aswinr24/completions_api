@@ -32,7 +32,7 @@ This API provides an endpoint for text completions using the Groq API.
 1. Clone the repository:
    
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aswinr24/completions_api.git
    ```
 3. Create a Virtual Environment:
    ```bash
